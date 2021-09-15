@@ -1,4 +1,4 @@
-<h1 align="center">Dashboard De Vendas</h1>
+<h1 align="center">:chart_with_upwards_trend: Dashboard De Vendas</h1>
 
 
 <p align="center">
@@ -14,14 +14,30 @@ Desenvolvido durante a semana "SpringReact", promovido pela DevSuperior, a aplic
 
 ## <a id="tecnologias"> 🧪 Tecnologias </a>
 
-As seguintes tecnologias foram utilizadas neste projeto para o desenvolvimento do Front-end:
+As seguintes tecnologias foram utilizadas neste projeto:
+
+#### Para o desenvolvimento do Front-end:
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Axios](https://img.shields.io/badge/Axios-5a29e4?style=for-the-badge)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-Para o desenvolvimento do back-end, foram utilizadas as seguintes tecnologias:
+#### Para o desenvolvimento do back-end:
+ 
+![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
+
+#### Implantação do Back end:
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+
+#### Implantação do Front end:
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+
+#### Banco de dados:
+
+![Mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 
 ## <a id="demonstracao"> ⚙️ Demonstração </a>
