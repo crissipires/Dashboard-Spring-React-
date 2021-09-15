@@ -41,6 +41,8 @@ As seguintes tecnologias foram utilizadas neste projeto:
 
 
 ## <a id="demonstracao"> ⚙️ Demonstração </a>
+
 Clique na imagem para acessar ao site ou <a href="https://bit.ly/dashboardspringreact" target="_blank">clique aqui</a>
+
 <a href="https://bit.ly/dashboardspringreact" target="_blank">![DashSpring](https://user-images.githubusercontent.com/67839316/133517870-48287e5a-3b3c-4e3f-8d02-cd40371e1778.gif)</a>
 
