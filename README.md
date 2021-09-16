@@ -9,7 +9,7 @@
 
 ## <a id="projeto"> 💻 Sobre o projeto </a>
 
-Desenvolvido durante a semana "SpringReact", promovido pela DevSuperior, a aplicação consiste em exibir um dashboard a partir de dados fornecidos por um back-end construído em Java utilizando Spring Boot e integrando com banco de dados Mysql, um front-end utilizando ReactJs e fazendo a implantação no Heroku e Netlify, usando CI / CD.
+Desenvolvido durante a semana "SpringReact", promovido pela DevSuperior, a aplicação consiste em exibir um dashboard a partir de dados fornecidos por um back-end construído em Java utilizando Spring Boot, integrado com banco de dados Mysql. Front-end utilizando ReactJs e fazendo a implantação no Heroku e Netlify, usando CI / CD.
 
 
 ## <a id="tecnologias"> 🧪 Tecnologias </a>
